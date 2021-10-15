@@ -1,4 +1,10 @@
-=
+---
+layout: post
+title: Fly On the Wall Lab
+subtitle: by Lynn Egan
+tags: [assignment, fly, on, the, wall]
+---
+
 
 
 Horace Mann has almost 1,200 students at its Upper Division campus with over almost 200 faculty members. A staggering number on a decent size campus. Each student has unique and thus many aspects of the design cater to the masses. Many items lack signifiers and opt for an open approach allowing students to do as they please. This would include the largest common area, Alumni Field. Alumni Field is home to PE, pep rallies, sports in the afternoons, and socializing on warm days. Last week during H period I observed student interactions on the field. It was very hot. A couple strolled by one holding an arm over the other, a group sat on the bench/bleachers, some played soccer under the shade. Perhaps the field has many small signifiers with many options or affordances for activities. Here the main concern for people was the sun. Of the people, I encountered most gathered on the Southside of the field closer to Tillinghast. This side has ample shade coverage from trees and the building itself. Later I went into Pforzheimer Hall, where younger Middle Division students would be. I noted a dry-erase wall with different tally marks representing Oreos and Chips-Ahoy cookies. It seemed like quite the attraction as there were at least 50 tally marks on each side. However, there was an elder teacher cleaning it who seemed to not enjoy it as much as the students. It proved difficult to clean. Finally, when going home on a 3:30 pm bus I noted the bus board. A clever way to read where your bus was located. However, there is no sign that tells which bus goes where. There are monitors who hold clipboards but they are bombarded with students. These are my three main notes from being a fly on the wall.
