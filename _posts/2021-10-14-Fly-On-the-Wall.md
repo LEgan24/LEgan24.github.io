@@ -17,5 +17,5 @@ Horace Mann has almost 1,200 students at its Upper Division campus with over alm
 	
 
 ![Scannable Document on Oct 14, 2021 at 9_10_24 PM](https://user-images.githubusercontent.com/90795393/137416357-3790124f-19d1-46f2-8217-7a1a328d937f.png)
-![Scannable Document on Oct 14, 2021 at 9_10_24 PM](https://user-images.githubusercontent.com/90795393/137416366-461c07be-41a6-4018-8ea5-122635169ae8.png)
 
+![Scannable Document on Oct 14, 2021 at 9_09_01 PM](https://user-images.githubusercontent.com/90795393/137416499-817feab2-4782-4f13-8360-8f49ee286a4f.png)
