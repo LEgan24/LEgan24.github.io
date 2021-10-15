@@ -16,3 +16,6 @@ Horace Mann has almost 1,200 students at its Upper Division campus with over alm
 	When I went out during H-period I worked with Ren. We decided to find people who were naturally interacting instead of disrupting anyone in a class. We chose the field because we knew people would be socializing. Then we walked to Pforzheimer on a whim because it was a rarity to go there. At one point we sat outside under the trees near the entrance to the Cafeteria. This did not work because there was not a heavy flow of foot traffic. We also went into the gym but were somewhat ushered out because there was a PE class occurring. It was important to be subtle like a fly on the wall. 
 	
 
+![Scannable Document on Oct 14, 2021 at 9_10_24 PM](https://user-images.githubusercontent.com/90795393/137416357-3790124f-19d1-46f2-8217-7a1a328d937f.png)
+![Scannable Document on Oct 14, 2021 at 9_10_24 PM](https://user-images.githubusercontent.com/90795393/137416366-461c07be-41a6-4018-8ea5-122635169ae8.png)
+
