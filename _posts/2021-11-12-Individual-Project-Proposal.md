@@ -18,6 +18,8 @@ I propose the adding of school walk way signs and information boards. Currently 
 Having two more signs with the appropriate amount of bus monitors would greatly improve the bus system and the community. I think that perhaps even high school students could be the volunteers to help younger students find their buses and learn the system.
 <br>
 
-
+<h2> Current Bus Situation</h2>
 ![Scannable Document on Nov 15, 2021 at 1_25_13 PM](https://user-images.githubusercontent.com/90795393/141834610-c622cd03-5e65-47d9-a5e9-c208420e4f3a.png)
+<br>
+<h3> Proposed Change to Bus Situation</h3>
 ![Scannable Document on Nov 15, 2021 at 1_28_19 PM](https://user-images.githubusercontent.com/90795393/141835028-e7c55908-2b36-43e4-be81-9359aad9b369.png)
