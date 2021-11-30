@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Individual Project Proposal
+title: Foot Traffic? Why? Bussling to the Busses Downfalls and Research
 subtitle: by Lynn Egan
 
 tags: [idea, individual, proposal]
