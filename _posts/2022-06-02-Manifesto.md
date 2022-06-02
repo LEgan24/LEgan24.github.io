@@ -17,11 +17,11 @@
     i.Like a holiday sale if its brilliant spend some time and energy trying it on and out 
     ii. But don’t commit too soon and exhaust yourself
     
-Work 
+3. Work 
   a. Put in the work
   b. Ideate, realize, continue 
   
-Self Doubt
+4. Self Doubt
   a. Don’t!
     i.Reflect personally, if there is a problem what is it specifically
     ii. Ask for other’s opinions without inputting your own insecurities
@@ -29,7 +29,7 @@ Self Doubt
     iv. You’ve made it!
   b.“Great success” *in Borat voice* 
 
-Build
+5. Build
   a. Work on structure aspects
     i.Test
     ii. Collect data
