@@ -1,14 +1,10 @@
 ## Design Method from the Mind to the People
 
 1. If this works for me, will it work for others?
-
-  a. If you have a brilliant idea that is beneficial to you, will it help other
-  
-    i. Perhaps your parents, siblings, or grandparents?
-    
-    ii. Is it accessible to all? Have you considered the primary audience?
-    
-    iii. Could it negatively impact someone?
+  1. If you have a brilliant idea that is beneficial to you, will it help other
+    1. Perhaps your parents, siblings, or grandparents?
+    2. Is it accessible to all? Have you considered the primary audience?
+    3. Could it negatively impact someone?
 
 2. Timing 
   a. The brilliant idea is born and also not born in a day
