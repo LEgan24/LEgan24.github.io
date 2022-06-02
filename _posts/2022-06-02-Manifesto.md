@@ -7,32 +7,32 @@
         3. Could it negatively impact someone?
 
 2. Timing 
-    a. The brilliant idea is born and also not born in a day
-        i. Spending time developing an idea is important
-        ii. Like a macron, you can over whisk your ideas
-    b. How much time is too little or too much?
-        i. Committed to the idea → then go for it
-        ii. Done with it → put it on the back burner or in the archive
-    c. Spent a reasonable amount
-        i. Like a holiday sale if its brilliant spend some time and energy trying it on and out 
-        ii. But don’t commit too soon and exhaust yourself
+    1. The brilliant idea is born and also not born in a day
+        1. Spending time developing an idea is important
+        1. Like a macron, you can over whisk your ideas
+    1. How much time is too little or too much?
+        1. Committed to the idea → then go for it
+        1. Done with it → put it on the back burner or in the archive
+    1. Spent a reasonable amount
+        1. Like a holiday sale if its brilliant spend some time and energy trying it on and out 
+        1. But don’t commit too soon and exhaust yourself
     
 3. Work 
-  a. Put in the work
-  b. Ideate, realize, continue 
+    1. Put in the work
+        1. Ideate, realize, continue 
   
 4. Self Doubt
-  a. Don’t!
-    i.Reflect personally, if there is a problem what is it specifically
-    ii. Ask for other’s opinions without inputting your own insecurities
-    iii. Build → Test → Repeat
-    iv. You’ve made it!
-  b.“Great success” *in Borat voice* 
+    1. Don’t!
+        1. Reflect personally, if there is a problem what is it specifically
+        1. Ask for other’s opinions without inputting your own insecurities
+        1.  Build → Test → Repeat
+        1.  You’ve made it!
+        1. “Great success” *in Borat voice* 
 
 5. Build
-  a. Work on structure aspects
-    i.Test
-    ii. Collect data
-    iii. Collect research
-    iv. Revamp
-    v. Repeat
+    1. Work on structure aspects
+        1. Test
+        1. Collect data
+        1. Collect research
+        1.  Revamp
+        1.  Repeat
