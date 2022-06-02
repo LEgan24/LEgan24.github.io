@@ -7,15 +7,15 @@
         3. Could it negatively impact someone?
 
 2. Timing 
-  a. The brilliant idea is born and also not born in a day
-    i. Spending time developing an idea is important
-    ii.Like a macron, you can over whisk your ideas
-  b. How much time is too little or too much?
-    i.Committed to the idea → then go for it
-    ii. Done with it → put it on the back burner or in the archive
-  c. Spent a reasonable amount
-    i.Like a holiday sale if its brilliant spend some time and energy trying it on and out 
-    ii. But don’t commit too soon and exhaust yourself
+    a. The brilliant idea is born and also not born in a day
+        i. Spending time developing an idea is important
+        ii. Like a macron, you can over whisk your ideas
+    b. How much time is too little or too much?
+        i. Committed to the idea → then go for it
+        ii. Done with it → put it on the back burner or in the archive
+    c. Spent a reasonable amount
+        i. Like a holiday sale if its brilliant spend some time and energy trying it on and out 
+        ii. But don’t commit too soon and exhaust yourself
     
 3. Work 
   a. Put in the work
